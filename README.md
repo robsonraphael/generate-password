@@ -31,5 +31,6 @@ curl -X POST "http://localhost:8000/generate-password" \
         "include_symbols": true
     }
 ```
+### Exemplo de saida
 
 ![print preview insominia](./assets/print-insominia.png)
