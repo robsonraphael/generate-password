@@ -31,3 +31,5 @@ curl -X POST "http://localhost:8000/generate-password" \
         "include_symbols": true
     }
 ```
+
+![print preview insominia](./assets/print-insominia.png)
