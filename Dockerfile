@@ -24,7 +24,7 @@ COPY . .
 RUN pip install --upgrade pip setuptools wheel
 RUN pip install -r requirements.txt
 
-# Expõe a porta usada pelo Uvicorn (ajustável)
+# Expõe a porta usada pelo Uvicorn
 EXPOSE 8000
 
 # Comando de execução do servidor FastAPI
